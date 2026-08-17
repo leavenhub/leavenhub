@@ -1,12 +1,12 @@
 # Hi, I'm leavenhub
 
-I build practical web tools, Discord systems, and game/community projects with a focus on clean user experience and reliable automation.
+I build practical Discord systems, guild tools, and web dashboards for gaming communities.
 
 Right now, I am working on:
 
+- **Shotcaller BOT / Saint Relayer**: a Discord voice relay tested in Throne and Liberty EU by multiple guilds.
+- **Saint Builder**: a Discord server builder that creates organized communities from ready-made blueprints.
 - **Saint Teams**: tools for organizing teams, community coordination, and Discord-based workflows.
-- **Private server tools**: backend and automation experiments around community management.
-- **Web projects**: TypeScript applications with clean structure and polished user interfaces.
 
 ## What I Work With
 
@@ -20,9 +20,27 @@ GitHub, Discord APIs, automation workflows, web deployment, UI design systems
 
 **Focus areas**
 
-Community tools, Discord bots, dashboards, game prototypes, and polished user interfaces
+Community tools, Discord bots, guild dashboards, MMO coordination, and polished user interfaces
 
 ## Featured Projects
+
+### [Shotcaller BOT / Saint Relayer](https://github.com/leavenhub/Shotcaller-BOT)
+
+The main project I want to highlight: a Discord voice relay built for large-scale MMO guild coordination.
+
+- Tested in **Throne and Liberty EU** by multiple guilds
+- Relays one commander voice into multiple Discord voice channels
+- Built for raid-leading, large fights, castle pushes, boonstone/riftstone content, and guild events
+- Includes Discord OAuth onboarding, server setup, worker bot capacity, and a public web hub
+- Permanently free and nonprofit
+
+### [Saint Builder](https://github.com/leavenhub/Saint-Builder)
+
+A Discord bot and dark-mode dashboard that turns an existing Discord server into an organized community from a premade blueprint.
+
+- Creates roles, categories, channels, permissions, embeds, and staff areas
+- Includes Discord OAuth dashboard and admin server selection
+- Uses reusable templates and audit tracking
 
 ### Saint Teams
 
