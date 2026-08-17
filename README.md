@@ -59,11 +59,31 @@ Team organization tools for communities that need cleaner structure around group
 | OAuth onboarding | Team organization | Server setup flows |
 | Slash commands | Event operations | Status and control UIs |
 
-## GitHub Activity
+## Stats & Stack
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leavenhub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+<table>
+  <tr>
+    <td>
+      <img alt="Saint GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leavenhub&show_icons=true&theme=radical&hide_border=false&rank_icon=github" />
+    </td>
+    <td>
+      <h3>Core Stack</h3>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Primary-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <br />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+        <br />
+        <img alt="React and Next.js" src="https://img.shields.io/badge/React%20%2F%20Next.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=111111" />
+        <br />
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <br />
+        <img alt="Discord systems" src="https://img.shields.io/badge/Discord%20Systems-Specialty-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
