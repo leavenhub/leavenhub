@@ -1,6 +1,6 @@
 <div align="center">
 
-# leavenhub
+# Saint
 
 **Discord systems, guild tools, and web dashboards for gaming communities**
 
@@ -69,5 +69,5 @@ Team organization tools for communities that need cleaner structure around group
 
 ## Contact
 
-- GitHub: [@leavenhub](https://github.com/leavenhub)
+- GitHub: Saint
 - Discord: Saintrielle
