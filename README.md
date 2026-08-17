@@ -1,12 +1,12 @@
-# Hi, I'm Cristian
+# Hi, I'm leavenhub
 
 I build practical web tools, Discord systems, and game/community projects with a focus on clean user experience and reliable automation.
 
 Right now, I am working on:
 
 - **Saint Teams**: tools for organizing teams, community coordination, and Discord-based workflows.
-- **Portfolio projects**: TypeScript and web applications that show front-end polish, clear structure, and real features.
 - **Private server tools**: backend and automation experiments around community management.
+- **Web projects**: TypeScript applications with clean structure and polished user interfaces.
 
 ## What I Work With
 
@@ -20,7 +20,7 @@ GitHub, Discord APIs, automation workflows, web deployment, UI design systems
 
 **Focus areas**
 
-Community tools, Discord bots, portfolio sites, dashboards, game prototypes, and polished user interfaces
+Community tools, Discord bots, dashboards, game prototypes, and polished user interfaces
 
 ## Featured Projects
 
@@ -31,14 +31,6 @@ A community-focused project for organizing teams and Discord activity.
 - Built around real server workflows
 - Focused on automation, clarity, and ease of use
 - Designed for communities that need structure without complexity
-
-### Portfolio
-
-A personal web portfolio for presenting projects, design direction, and technical work.
-
-- Clean responsive layout
-- Project-first presentation
-- Built with TypeScript
 
 ### Cris Site
 
@@ -51,6 +43,4 @@ I like building things that feel useful, simple, and finished. My goal is not ju
 ## Contact
 
 - GitHub: [@leavenhub](https://github.com/leavenhub)
-- Portfolio: add your portfolio link here
-- Discord/community: add a public contact link here if you want one
-
+- Discord: Saintrielle
