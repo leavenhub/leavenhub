@@ -4,7 +4,7 @@
 
 # Saint
 
-**Building private Discord systems for MMO guilds, raid leaders, and gaming communities**
+**Building private Discord systems, websites, database tools, and automations for real workflows**
 
 ![Profile views](https://komarev.com/ghpvc/?username=leavenhub&label=Profile%20views&color=2f81f7&style=flat)
 
@@ -12,6 +12,8 @@
 ![Saint Builder](https://img.shields.io/badge/Saint%20Builder-Active-2f81f7?style=flat-square)
 ![Saint Teams](https://img.shields.io/badge/Saint%20Teams-In%20Progress-7c3aed?style=flat-square)
 ![Discord Automation](https://img.shields.io/badge/Discord%20Automation-Core-111827?style=flat-square&logo=discord&logoColor=white)
+![MySQL Tools](https://img.shields.io/badge/MySQL%20Tools-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Web Apps](https://img.shields.io/badge/Web%20Apps-Built%20For%20People-111827?style=flat-square)
 
 </div>
 
@@ -19,9 +21,20 @@
 
 ## What I Build
 
-I build practical tools for gaming communities: Discord automation, guild coordination systems, onboarding flows, admin dashboards, and voice tools made for real server activity.
+I build practical tools for gaming communities, businesses, and everyday workflows: Discord automation, guild coordination systems, websites, database applications, SQL tools, onboarding flows, admin dashboards, and automations made for real use.
 
 My work is focused on clarity, reliability, and making community management easier for guild leaders, staff teams, and event organizers.
+
+## Public Site
+
+### [saintbot.org](https://saintbot.org)
+
+The public home for Saint tools, including **Shotcaller BOT / Saint Relayer** and **Saint Builder**.
+
+- Presents the Saint ecosystem in one place
+- Supports the Shotcaller BOT / Saint Relayer flow
+- Showcases Saint Builder and related Discord tools
+- Built as the public-facing hub while project code stays private
 
 ## Currently Building
 
@@ -29,6 +42,7 @@ My work is focused on clarity, reliability, and making community management easi
 - **Saint Builder**: Discord server creation and setup automation
 - **Saint Teams**: group, role, and activity organization
 - **Saint Systems**: a private suite of Discord tools for gaming communities
+- **Web and database tools**: sites, MySQL applications, SQL helpers, and job-focused automations
 
 ## Proof
 
@@ -44,7 +58,8 @@ My work is focused on clarity, reliability, and making community management easi
 | Shotcaller BOT / Saint Relayer | Multi-channel Discord voice relay for MMO shotcalling | Featured |
 | Saint Builder | Discord server setup from structured blueprints | Active |
 | Saint Teams | Team, role, and community organization | In progress |
-| Saint Hub | Ecosystem landing area for Saint tools | Private |
+| Saint Hub / saintbot.org | Public ecosystem site for Shotcaller BOT and Saint Builder | Featured |
+| SQL and automation tools | Internal tools for queries, databases, and daily workflows | Private |
 
 ## Featured Work
 
@@ -70,6 +85,16 @@ A Discord server builder for turning an existing server into an organized commun
 
 Team organization tools for communities that need cleaner structure around groups, roles, and activity.
 
+## Beyond Discord
+
+I also build practical websites, business tools, and database-driven applications.
+
+- Websites for people, projects, and communities
+- Applications connected to MySQL and structured databases
+- Internal tools for writing, organizing, and speeding up SQL query work
+- Job-focused automations that reduce repetitive tasks and make daily workflows easier
+- Guild and community management dashboards built around real operational needs
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,16 +103,18 @@ Team organization tools for communities that need cleaner structure around group
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Areas
 
-| Discord Systems | Guild Tools | Web Dashboards |
+| Discord Systems | Guild Tools | Web & Database Tools |
 | --- | --- | --- |
-| Voice relay systems | MMO coordination | Admin panels |
-| OAuth onboarding | Team organization | Server setup flows |
-| Slash commands | Event operations | Status and control UIs |
+| Voice relay systems | MMO coordination | Websites |
+| OAuth onboarding | Team organization | MySQL applications |
+| Slash commands | Event operations | SQL query helpers |
+| Automation flows | Community dashboards | Job workflow automations |
 
 ## Stats & Stack
 
