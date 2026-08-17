@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=saintrielle&label=Profile%20views&color=2f81f7&style=flat)
 
-![Shotcaller BOT](https://img.shields.io/badge/Shotcaller%20BOT-Active-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Saint Relayer](https://img.shields.io/badge/Saint%20Relayer-Active-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Saint Builder](https://img.shields.io/badge/Saint%20Builder-Active-2f81f7?style=flat-square)
 ![Saint Teams](https://img.shields.io/badge/Saint%20Teams-In%20Progress-7c3aed?style=flat-square)
 ![Discord Automation](https://img.shields.io/badge/Discord%20Automation-Core-111827?style=flat-square&logo=discord&logoColor=white)
@@ -42,16 +42,16 @@ My work is focused on clarity, reliability, and making community management easi
 
 ### [saintbot.org](https://saintbot.org)
 
-The public home for Saint tools, including **Shotcaller BOT / Saint Relayer** and **Saint Builder**.
+The public home for Saint tools, including **Saint Relayer** and **Saint Builder**.
 
 - Presents the Saint ecosystem in one place
-- Supports the Shotcaller BOT / Saint Relayer flow
+- Supports the Saint Relayer flow
 - Showcases Saint Builder and related Discord tools
 - Built as the public-facing hub while project code stays private
 
 ## Currently Building
 
-- **Shotcaller BOT / Saint Relayer**: voice coordination for MMO guilds
+- **Saint Relayer**: voice coordination for MMO guilds
 - **Saint Builder**: Discord server creation and setup automation
 - **Saint Teams**: group, role, and activity organization
 - **Saint Systems**: a private suite of Discord tools for gaming communities
@@ -69,17 +69,17 @@ The public home for Saint tools, including **Shotcaller BOT / Saint Relayer** an
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| Shotcaller BOT / Saint Relayer | Multi-channel Discord voice relay for MMO shotcalling | Featured |
+| Saint Relayer | Multi-channel Discord voice relay for MMO shotcalling | Featured |
 | Saint Builder | Discord server setup from structured blueprints | Active |
 | Saint Teams | Team, role, and community organization | In progress |
-| Saint Hub / saintbot.org | Public ecosystem site for Shotcaller BOT and Saint Builder | Featured |
+| Saint Hub / saintbot.org | Public ecosystem site for Saint Relayer and Saint Builder | Featured |
 | SQL and automation tools | Internal tools for queries, databases, and daily workflows | Private |
 | LyricEngine Pro | AI-assisted animated lyric-video generation | Built |
 | Private server systems | Customized MMO server gameplay, items, events, and tools | Built |
 
 ## Featured Work
 
-### Shotcaller BOT / Saint Relayer
+### Saint Relayer
 
 **Main project:** a Discord voice relay built for large-scale MMO guild coordination.
 
