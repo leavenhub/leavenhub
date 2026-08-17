@@ -1,6 +1,6 @@
 <div align="center">
 
-![Saint Systems banner](./assets/saint-systems-banner.png)
+![Saint Systems banner](./assets/saint-systems-banner.jpg)
 
 # Saint
 
