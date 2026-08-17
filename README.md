@@ -6,7 +6,7 @@
 
 **Building private Discord systems, websites, database tools, and automations for real workflows**
 
-![Profile views](https://komarev.com/ghpvc/?username=leavenhub&label=Profile%20views&color=2f81f7&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=saintrielle&label=Profile%20views&color=2f81f7&style=flat)
 
 ![Shotcaller BOT](https://img.shields.io/badge/Shotcaller%20BOT-Active-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Saint Builder](https://img.shields.io/badge/Saint%20Builder-Active-2f81f7?style=flat-square)
@@ -123,7 +123,7 @@ I also build practical websites, business tools, and database-driven application
 <table>
   <tr>
     <td>
-      <img alt="Saint GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leavenhub&show_icons=true&theme=radical&hide_border=false&rank_icon=github" />
+      <img alt="Saint GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saintrielle&show_icons=true&theme=radical&hide_border=false&rank_icon=github" />
     </td>
     <td>
       <h3>Core Stack</h3>
@@ -146,5 +146,5 @@ I also build practical websites, business tools, and database-driven application
 
 ## Contact
 
-- GitHub: Saint
+- GitHub: [@saintrielle](https://github.com/saintrielle)
 - Discord: Saintrielle
