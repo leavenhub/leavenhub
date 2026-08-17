@@ -1,10 +1,17 @@
 <div align="center">
 
+![Saint Systems banner](./assets/saint-systems-banner.png)
+
 # Saint
 
-**Discord systems, guild tools, and web dashboards for gaming communities**
+**Building private Discord systems for MMO guilds, raid leaders, and gaming communities**
 
 ![Profile views](https://komarev.com/ghpvc/?username=leavenhub&label=Profile%20views&color=2f81f7&style=flat)
+
+![Shotcaller BOT](https://img.shields.io/badge/Shotcaller%20BOT-Active-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Saint Builder](https://img.shields.io/badge/Saint%20Builder-Active-2f81f7?style=flat-square)
+![Saint Teams](https://img.shields.io/badge/Saint%20Teams-In%20Progress-7c3aed?style=flat-square)
+![Discord Automation](https://img.shields.io/badge/Discord%20Automation-Core-111827?style=flat-square&logo=discord&logoColor=white)
 
 </div>
 
@@ -15,6 +22,29 @@
 I build practical tools for gaming communities: Discord automation, guild coordination systems, onboarding flows, admin dashboards, and voice tools made for real server activity.
 
 My work is focused on clarity, reliability, and making community management easier for guild leaders, staff teams, and event organizers.
+
+## Currently Building
+
+- **Shotcaller BOT / Saint Relayer**: voice coordination for MMO guilds
+- **Saint Builder**: Discord server creation and setup automation
+- **Saint Teams**: group, role, and activity organization
+- **Saint Systems**: a private suite of Discord tools for gaming communities
+
+## Proof
+
+- Tested by multiple **Throne and Liberty EU** guilds
+- Built for multi-squad voice coordination
+- Designed around real guild operations, not demo-only workflows
+- Focused on free, nonprofit community tools
+
+## Project Suite
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| Shotcaller BOT / Saint Relayer | Multi-channel Discord voice relay for MMO shotcalling | Featured |
+| Saint Builder | Discord server setup from structured blueprints | Active |
+| Saint Teams | Team, role, and community organization | In progress |
+| Saint Hub | Ecosystem landing area for Saint tools | Private |
 
 ## Featured Work
 
