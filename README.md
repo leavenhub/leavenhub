@@ -14,6 +14,8 @@
 ![Discord Automation](https://img.shields.io/badge/Discord%20Automation-Core-111827?style=flat-square&logo=discord&logoColor=white)
 ![MySQL Tools](https://img.shields.io/badge/MySQL%20Tools-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Web Apps](https://img.shields.io/badge/Web%20Apps-Built%20For%20People-111827?style=flat-square)
+![Private Servers](https://img.shields.io/badge/Private%20Servers-Game%20Systems-7c3aed?style=flat-square)
+![Mobile Apps](https://img.shields.io/badge/iOS%20%2F%20Android-Apps-111827?style=flat-square)
 
 </div>
 
@@ -24,6 +26,17 @@
 I build practical tools for gaming communities, businesses, and everyday workflows: Discord automation, guild coordination systems, websites, database applications, SQL tools, onboarding flows, admin dashboards, and automations made for real use.
 
 My work is focused on clarity, reliability, and making community management easier for guild leaders, staff teams, and event organizers.
+
+## Experience
+
+- Built and customized **Perfect World private servers** for versions **1.3.6** and **1.5.5**
+- Customized game systems including flyers, gears, skills, items, events, and playable content
+- Built several private-server game projects, including customized systems inspired by **Turtle WoW**, **Flyff**, **Perfect World**, **World of Warcraft**, **Aion 1**, and **Forsaken World**
+- Built advanced websites with scroll animations as well as simple clean websites for people and communities
+- Built MySQL and database-driven applications for practical workflows
+- Created tools for SQL query work, internal operations, and job-focused automation
+- Managed Discord communities across different servers and built Discord automations for server operations
+- Built iOS and Android apps
 
 ## Public Site
 
@@ -43,6 +56,7 @@ The public home for Saint tools, including **Shotcaller BOT / Saint Relayer** an
 - **Saint Teams**: group, role, and activity organization
 - **Saint Systems**: a private suite of Discord tools for gaming communities
 - **Web and database tools**: sites, MySQL applications, SQL helpers, and job-focused automations
+- **LyricEngine Pro**: animated lyric-video generation for creators
 
 ## Proof
 
@@ -60,6 +74,8 @@ The public home for Saint tools, including **Shotcaller BOT / Saint Relayer** an
 | Saint Teams | Team, role, and community organization | In progress |
 | Saint Hub / saintbot.org | Public ecosystem site for Shotcaller BOT and Saint Builder | Featured |
 | SQL and automation tools | Internal tools for queries, databases, and daily workflows | Private |
+| LyricEngine Pro | AI-assisted animated lyric-video generation | Built |
+| Private server systems | Customized MMO server gameplay, items, events, and tools | Built |
 
 ## Featured Work
 
@@ -95,6 +111,28 @@ I also build practical websites, business tools, and database-driven application
 - Job-focused automations that reduce repetitive tasks and make daily workflows easier
 - Guild and community management dashboards built around real operational needs
 
+## Apps Built
+
+### LyricEngine Pro
+
+LyricEngine Pro turns any song into an animated lyric video.
+
+- Upload a song as an audio or video file
+- AI transcribes and syncs lyrics automatically to the beat
+- Pick visual styles, text animations, fonts, and colors
+- Export videos for YouTube in **16:9** or TikTok/Reels in **9:16**
+
+## Game Server Work
+
+I have built and customized private-server game projects with custom content, gameplay systems, and live community use in mind.
+
+- Perfect World **1.3.6** and **1.5.5**
+- Turtle WoW-style custom private server systems
+- Flyff
+- World of Warcraft
+- Aion 1
+- Forsaken World
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -106,15 +144,18 @@ I also build practical websites, business tools, and database-driven application
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=111111)
 
 ## Areas
 
-| Discord Systems | Guild Tools | Web & Database Tools |
+| Discord Systems | Guild Tools | Web, Database & Game Tools |
 | --- | --- | --- |
 | Voice relay systems | MMO coordination | Websites |
 | OAuth onboarding | Team organization | MySQL applications |
 | Slash commands | Event operations | SQL query helpers |
 | Automation flows | Community dashboards | Job workflow automations |
+| Discord admin workflows | Guild management sites | Private server customization |
 
 ## Stats & Stack
 
