@@ -196,31 +196,19 @@ I have built and customized private-server game projects with custom content, ga
 | Automation flows | Community dashboards | Job workflow automations |
 | Discord admin workflows | Guild management sites | Private server customization |
 
-## Stats & Stack
+## Stack Snapshot
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img alt="Saint GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saintrielle&show_icons=true&theme=radical&hide_border=false&rank_icon=github" />
-    </td>
-    <td>
-      <h3>Core Stack</h3>
-      <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Primary-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <br />
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
-        <br />
-        <img alt="React and Next.js" src="https://img.shields.io/badge/React%20%2F%20Next.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=111111" />
-        <br />
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <br />
-        <img alt="Discord systems" src="https://img.shields.io/badge/Discord%20Systems-Specialty-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<h3>Core Stack</h3>
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-primary-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-core-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+  <img alt="React and Next.js" src="https://img.shields.io/badge/React%20%2F%20Next.js-frontend-61DAFB?style=flat-square&logo=react&logoColor=111111" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Discord systems" src="https://img.shields.io/badge/Discord%20systems-specialty-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</p>
 
 </div>
 
